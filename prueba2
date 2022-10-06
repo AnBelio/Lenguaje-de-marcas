@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>
+            Ejercicio2
+        </title>
+    </head>
+    <body>
+        <p>
+            Patatas con lomo y pimientos verdes
+
+        </p>
+        <b>
+            Esto es un texto escrito en negrita
+        </b>
+        <i>
+            Esto es un texto escrito en cursiva
+        </i>
+        <u>
+            Esto es un texto con una línea debajo
+        </u>
+    </body>
+</html>
