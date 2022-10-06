@@ -1,0 +1,25 @@
+<html>
+    <body>
+        <h1> Listas de definición</h1>
+        <dl> 
+            <dt><b>
+                Avión :
+            </dt></b>
+            <dd>
+                Es un medio de transporte que utiliza turbinas para su funcionamiento
+            </dd><b>
+            <dt> 
+                Coche :
+            </dt></b>
+            <dd>
+                Tiene 4 ruedas y es el medio de transporte que más se usa actualmente
+            </dd>
+            <dt><b>
+                Barco :
+            </dt></b>
+            <dd>
+                Flota y puede llevar grandes cargas
+            </dd>
+        </dl>
+    </body>
+</html>
