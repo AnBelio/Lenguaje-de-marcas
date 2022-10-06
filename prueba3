@@ -1,0 +1,31 @@
+<html>
+    <body>
+        <h1>
+            TÍTULO 1
+        </h1>
+        <h2>
+            TÍTULO 2
+        </h2>
+        <h3>
+            TÍTULO 3
+        </h3>
+        <h4>
+            TÍTULO 4
+        </h4>
+        <b>
+        <sub>
+            ANDRES
+        </sub>
+        </b>
+        <u>
+        <sup>
+            JAIME
+        </sup>
+        </u>
+        <i>
+        <sub>
+            PEDRO
+        </sub>
+        </i>
+    </body>
+</html>
