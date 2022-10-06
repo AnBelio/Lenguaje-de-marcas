@@ -1,0 +1,25 @@
+<html>
+    <body>
+        <h1>
+         <p style="color:#054169";>CURRICULUM VITAE </p>
+        </h1>
+        <h2>
+            <ul>
+               <li> PRIMARIA </li>
+               <li> SECUNDARIA </li>
+               <li> GRADO MEDIO</li>
+               <li> TRABAJANDO AUTONOMO DESDE ENERO</li>   
+            </ul>
+            <p style="color:#53034d";>INTERESES </p>
+            <ul>
+                <li> LOS TOROS </li>
+                <li> EL FÚLTBOL </li>
+                <li> APRENDER DÍA A DÍA </li>
+                <li> COLECCIONISMO DE INSECTOS DISECADOS</li>
+            </ul>
+            <img src="https://i.pinimg.com/originals/8a/22/0b/8a220b43ea058d7237d2d68f8a232ec4.gif" alt="this slowpoke moves"  width="250" />
+        </h2>
+
+        <img src="https://phantom-marca.unidadeditorial.es/216af783af49717abde1109aa0cdf27f/resize/1320/f/jpg/assets/multimedia/imagenes/2022/09/08/16626480057986.jpg">
+      </body>
+</html>
